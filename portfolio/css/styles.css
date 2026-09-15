@@ -1,0 +1,51 @@
+/* Hero Section */
+#hero {
+    background: linear-gradient(to right, #007bff, #00b7ff);
+    min-height: 100vh;
+    padding-top: 80px;
+}
+
+/* Navbar */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Profile Image */
+#about img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/* About Section */
+#about {
+    background-color: #ffffff;
+}
+
+/* Projects Section */
+.card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 100%;
+}
+
+/* Skills Section */
+.progress {
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    background-color: #007bff;
+}
+
+/* Footer */
+footer {
+    position: relative;
+}
+
+/* General Spacing */
+section {
+    scroll-margin-top: 70px;
+}
