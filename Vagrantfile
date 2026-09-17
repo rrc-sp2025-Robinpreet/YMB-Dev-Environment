@@ -3,6 +3,16 @@
 # Student ID: 0425610
 # YMB Zone B Automated Development Environment
 
+# GitHub Repository:
+# https://github.com/rrc-sp2025-Robinpreet/YMB-Dev-Environment
+#
+# Instructions:
+# 1. Clone or download this repository.
+# 2. Open PowerShell/Terminal in the project folder.
+# 3. Run: vagrant up
+# 4. Open the portfolio at: http://192.168.56.13
+
+
 
 
 
